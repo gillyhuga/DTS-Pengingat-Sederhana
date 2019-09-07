@@ -1,1 +1,2 @@
-# Digital Talent Scholarship - Tugas Sertifikasi "Pengingat Sederhana" 
+# Junior Mobile Programming -Digital Talent Kominfo 2019
+Tugas Sertifikasi "Pengingat Sederhana" 
