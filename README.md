@@ -1,7 +1,7 @@
 # Junior Mobile Programming -Digital Talent Kominfo 2019
 
-## Certification Task "Pengingat Sederhana" 
-This is a simple reminder application that I made for the BNSP certification assignment, I made it using the Java programming language.
+## Tugas Sertifikasi Junior Mobile Programming "Pengingat Sederhana" 
+Ini adalah aplikasi reminder sederhana yang saya buat untuk tugas sertifikasi BNSP, saya membuatnya dengan menggunakan bahasa pemrograman Java.
 
 ## Preview  
 * Home Screen
